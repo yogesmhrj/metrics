@@ -1,0 +1,16 @@
+{
+    "name": "yogesmhrj/metrics",
+    "description": "Package for Metric Conversion Helper Methods",
+    "autoload": {
+        "psr-4": {
+            "Yogesmhrj\\Metrics\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yogesh Maharjan",
+            "email": "metal4yogesh@gmail.com"
+        }
+    ],
+    "require": {}
+}
